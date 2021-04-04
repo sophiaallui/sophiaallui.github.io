@@ -13,8 +13,6 @@ Everyone must know this line of code:
 System.out.println("Hello, World!"); 
 ```
 
-Currently building my portfolio website: [Sophia Lui | Student](https://serene-edison-5132bb.netlify.app/)
-
 ## Projects: 
 More projects can be found on my [Github](https://github.com/sophiaallui), but here are a few! 
 
