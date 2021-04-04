@@ -25,6 +25,7 @@ Currently building my portfolio website: [Sophia Lui | Student](https://serene-e
 Twitter clone is by far one of the better projects that was put together. Here's the [README.md](https://github.com/sophiaallui/SimpleTweet/blob/master/README.md) for more details! 
 
 ![Getting Started](SimpleTweetPt2.gif)
+
 Summary of the project: 
 - live action update
 - Clone has user specific feed 
