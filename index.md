@@ -18,7 +18,7 @@ More projects can be found on my [Github](https://github.com/sophiaallui), but h
 
 **Personal Portfolio** 
 
-Currently building my portfolio website: [Sophia Lui | Student](https://serene-edison-5132bb.netlify.app/)
+Currently building my portfolio website: [Sophia Lui | Student](https://serene-edison-5132bb.netlify.app)
 
 **Twitter Clone**
 
